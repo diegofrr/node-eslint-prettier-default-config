@@ -1,0 +1,23 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+      "@typescript-eslint",
+      "prettier"
+    ],
+    "extends": [
+      "eslint:recommended",
+      "plugin:@typescript-eslint/eslint-recommended",
+      "plugin:@typescript-eslint/recommended",
+      "prettier",
+      "plugin:prettier/recommended"
+    ],
+    "rules": {
+      "no-console": "warn",
+      "prettier/prettier": "error",
+      "func-names": "off",
+      "class-methods-use-this": "off",
+      "camelcase": "off",
+      "no-underscore-dangle": "off"
+    }
+  }

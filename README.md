@@ -1,2 +1,2 @@
 # node-eslint-prettier-default-config
-Node.js + Eslint and Prettier: My default configs
+Node.js and Sequelize + Eslint and Prettier: My default configs
